@@ -74,8 +74,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Streamlit community
 - Python community
 
-```
-
-To include images, create an `images` folder in your project directory and place your images (e.g., `pygwalker-logo.png`, `screenshot1.png`, `screenshot2.png`) inside that folder. Then, reference these images in your README using the Markdown image syntax as shown in the example above.
-
-Remember to replace placeholders like `your-username`, `your-repo-name`, and adjust the image filenames and paths to match your project. Additionally, you can customize the README further to provide more specific information about your project, such as installation instructions, usage examples, and additional sections relevant to your project's documentation.
